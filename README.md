@@ -1,0 +1,2 @@
+# manifesto
+Hybrid Shore Manifesto
